@@ -13,12 +13,6 @@ public class Student {
     private String studentID;
     private String address;
 
-    public String getName() {
-        return name;
-    }
 
-    public void setName(String name) {
-        this.name = name;
-    }
    
 }
