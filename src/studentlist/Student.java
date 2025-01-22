@@ -5,7 +5,7 @@
 package studentlist;
 
 /**
- *
+ *Date : 22nd January
  * @author fagun at 12/05/2024
  */
 public class Student {
